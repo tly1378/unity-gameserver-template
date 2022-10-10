@@ -1,0 +1,12 @@
+E:\Projects\C#Project\GameServer\NetworkLibrary\bin\Debug\NetworkLibrary.dll
+E:\Projects\C#Project\GameServer\NetworkLibrary\bin\Debug\NetworkLibrary.pdb
+E:\Projects\C#Project\GameServer\NetworkLibrary\obj\Debug\NetworkLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\C#Project\GameServer\NetworkLibrary\obj\Debug\NetworkLibrary.dll
+E:\Projects\C#Project\GameServer\NetworkLibrary\obj\Debug\NetworkLibrary.pdb
+E:\Projects\UnityProjects\Game\Assets\Plugins\NetworkLibrary.dll
+E:\Projects\UnityProjects\Game\Assets\Plugins\NetworkLibrary.pdb
+E:\Projects\C#Project\GameServer\NetworkLibrary\obj\Debug\NetworkLibrary.csproj.AssemblyReference.cache
+E:\Projects\UnityProjects\unity-gameserver-template\network-library\obj\Debug\NetworkLibrary.csproj.AssemblyReference.cache
+E:\Projects\UnityProjects\unity-gameserver-template\network-library\obj\Debug\NetworkLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\UnityProjects\unity-gameserver-template\network-library\obj\Debug\NetworkLibrary.dll
+E:\Projects\UnityProjects\unity-gameserver-template\network-library\obj\Debug\NetworkLibrary.pdb
